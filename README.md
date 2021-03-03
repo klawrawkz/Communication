@@ -3,6 +3,7 @@ This repo collates client libraries (SDKs), roadmap information, release notes, 
 
 - **SDKs** - Download client libraries
 - **Roadmap** - Review priorities for current and future service development
+- **[Microsoft Documentation](https://docs.microsoft.com/en-us/azure/communication-services/concepts/client-and-server-architecture)** 
 - **Release Notes** - Find [collated release notes](https://github.com/Azure/Communication/tree/master/releasenotes) for the service and SDKs
 - **Help** - Ask questions, file issues, or request features
 
